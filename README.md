@@ -13,3 +13,6 @@ This Fabric mod adds a cute Yuzuki Yukari Plush Mob to Minecraft. It floats arou
 
 ## Screenshot
 ![Cute](https://user-images.githubusercontent.com/45186205/122135362-583a1e80-ce0e-11eb-9206-0fe4971d1431.png)
+
+## Credits
+[Model Creator](https://seiga.nicovideo.jp/seiga/im10610798)
