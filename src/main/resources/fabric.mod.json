@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "plush",
+  "version": "1",
+
+  "name": "Plush",
+  "description": "Extremely Important",
+  "authors": [
+    "YuzukiYukari"
+  ],
+  "contact": {    
+    "homepage": "google.com",
+    "sources": "google.com"},
+
+  "license": "MIT",
+  "icon": "assets/plush/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "plush.plush.plush.client.PlushieClient"
+    ],
+    "main": [
+      "plush.plush.plush.Plush"
+    ]
+  },
+ "mixins": [
+   "plush.mixins.json"
+    ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}

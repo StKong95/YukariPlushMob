@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "plush.plush.plush.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "PlushieMixin",
+        "SpawnRestrictionMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
