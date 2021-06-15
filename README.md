@@ -8,7 +8,7 @@ This Fabric mod adds a cute Yuzuki Yukari Plush Mob to Minecraft. It floats arou
 
 ## Instructions
 
-1) Add mod to your Minecraft mods folder.
+1) Add the .jar file to your Minecraft mods folder.
 2) Try finding one in the wild, or spawn one using commands.
 
 ## Screenshot
